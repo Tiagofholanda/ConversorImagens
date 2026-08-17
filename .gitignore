@@ -11,3 +11,9 @@ Thumbs.db
 *.log
 .idea/
 .vscode/
+
+# Cópias convertidas (não versionar) — originais .ico ficam no repo
+SISTEMA/**/icone_*.png
+SISTEMA/**/app.png
+SISTEMA/**/site.png
+SISTEMA/**/icone_raiz.png
